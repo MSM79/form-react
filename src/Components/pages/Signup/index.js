@@ -1,8 +1,8 @@
 import React from "react";
-import Form from "../../Tools/Form";
+import Forms from "../../Tools/Form";
 
 function Signup() {
-  return <Form />;
+  return <Forms />;
 }
 
 export default Signup;
